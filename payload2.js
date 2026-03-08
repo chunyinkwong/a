@@ -41,3 +41,4 @@
 		ping('location_failed');
 	}
 })();
+
